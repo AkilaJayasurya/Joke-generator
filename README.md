@@ -56,7 +56,9 @@ GET JOKES
 ├── package-lock.json
 ├── package.json
 ├── README.md
-├── vite.config.js           
+├── vite.config.js
+
+     
 ---
 
 ## 📂 Available Joke Categories
@@ -77,6 +79,7 @@ GET JOKES
 - `science`  
 - `sport`  
 - `travel`
+
 
 
 
