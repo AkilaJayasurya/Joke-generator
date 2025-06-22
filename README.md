@@ -34,6 +34,27 @@ A sleek and responsive React application that brings you Chuck Norris jokes cate
 - 🔗 **Chuck Norris API** – Source of all the hilarious Chuck Norris jokes  
 
 ---
+---
+
+## 📂 Available Joke Categories
+
+- `animal`  
+- `career`  
+- `celebrity`  
+- `dev`  
+- `explicit`  
+- `fashion`  
+- `food`  
+- `history`  
+- `money`  
+- `movie`  
+- `music`  
+- `political`  
+- `religion`  
+- `science`  
+- `sport`  
+- `travel`
+
 
 ## 📂 Folder Structure
 ```bash
@@ -59,26 +80,6 @@ GET JOKES
 ├── vite.config.js
 
      
----
-
-## 📂 Available Joke Categories
-
-- `animal`  
-- `career`  
-- `celebrity`  
-- `dev`  
-- `explicit`  
-- `fashion`  
-- `food`  
-- `history`  
-- `money`  
-- `movie`  
-- `music`  
-- `political`  
-- `religion`  
-- `science`  
-- `sport`  
-- `travel`
 
 
 
