@@ -34,7 +34,6 @@ A sleek and responsive React application that brings you Chuck Norris jokes cate
 - 🔗 **Chuck Norris API** – Source of all the hilarious Chuck Norris jokes  
 
 ---
----
 
 ## 📂 Available Joke Categories
 
